@@ -1,0 +1,166 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+overflow: hidden;
+
+background-color: #020202;
+
+color: white;
+
+height: 70px;
+}
+.header-content{
+
+width: 90%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo h3{
+
+padding-top: 20px;
+}
+nav{
+
+width: 30%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+padding-top: 26px;
+}
+nav ul li {
+    
+float: left;
+    
+margin-right: 41px;
+}
+.image{
+
+
+    
+    margin-top: 100px;
+}
+.image-1{
+        text-align: center;
+}
+.image-1 img{
+        
+    width: 40%;
+}
+.middle{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    margin-top: 55px;
+    margin-bottom: 100px;
+}
+.middle img{
+    margin-bottom: 5px;
+}
+.middle h3{
+    margin-bottom: 30px;
+}
+.middle-one{
+
+text-align: center;
+
+float: left;
+
+width: 25%;
+}
+.middle-two{
+
+float: left;
+
+text-align: center;
+
+width: 25%;
+
+margin-left: 163px;
+}
+.middle-three{
+    
+float: right;
+    
+text-align: center;
+    
+width: 25%;
+}
+nav ul li:first-child{
+    background-color: rgb(64, 163, 255);
+    padding: 2px;
+}
+.last-content{
+    width: 90%;
+    overflow: hidden;
+    margin: auto;
+    text-align: center;
+}
+.left-content{
+    width: 45%;
+    float:left
+}
+.right-content{
+    width: 45%;
+    float: right;
+}
+.left-content h3{
+
+margin-bottom: 10px;
+}
+.left-content p{
+
+margin-bottom: 20px;
+
+width: 100%;
+}
+.left-content img{
+
+width: 100%;
+}
+.right-content h3{
+
+margin-bottom: 10px;
+}
+.right-content p{
+
+margin-bottom: 20px;
+}
+.right-content img{
+    
+width: 100%;
+}
+footer{
+
+height: 50px;
+
+margin-top: 100px;
+
+background-color: black;
+}
+footer h5{
+    
+text-align: center;
+    
+color: #b3b3b3;
+    
+padding-top: 16px;
+    
+font-size: 12px;
+}
